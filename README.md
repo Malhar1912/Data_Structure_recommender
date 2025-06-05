@@ -162,6 +162,5 @@ MIT License. Feel free to use, share, or adapt this for research, educational, o
 ## 👤 Author
 
 **Malhar Pangarkar**
-🧠 Let's make algorithmic learning intelligent and intuitive!
 
 ---
