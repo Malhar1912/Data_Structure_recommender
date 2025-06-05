@@ -1,5 +1,3 @@
-Here’s a professional and comprehensive `README.md` for your **Advanced Data Structure Recommender for LeetCode-style Problems** project:
-
 ---
 
 # 🧠 Advanced Data Structure Recommender
