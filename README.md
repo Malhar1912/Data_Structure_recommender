@@ -32,11 +32,7 @@ advanced_ds_recommender/
 ├── intent_classifier.py         # Classifies intent using fine-tuned BERT
 ├── explanation_generator.py     # Generates "why this DS?" explanation
 ├── config/
-│   └── rules_config.py          # Keyword hints for FSM-style insights
-├── data/
-│   └── problem_embeddings.json  # Example problem embeddings
-└── models/
-    └── intent_classifier/       # (Optional) Fine-tuned classifier model
+    └── rules_config.py          # Keyword hints for FSM-style insights
 ```
 
 ---
