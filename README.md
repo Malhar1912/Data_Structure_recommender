@@ -39,11 +39,11 @@ advanced_ds_recommender/
 
 ## 🛠️ Features
 
-*✅ **Paraphrasing with T5**
-*✅ **Linguistic Analysis (NER, POS, chunks, dependencies)**
-*✅ **Semantic Matching with Sentence Transformers**
-*✅ **Intent Classification with Fine-tuned BERT**
-*✅ **FSM-style Explanation Generator**
+###✅ **Paraphrasing with T5**
+###✅ **Linguistic Analysis (NER, POS, chunks, dependencies)**
+###✅ **Semantic Matching with Sentence Transformers**
+###✅ **Intent Classification with Fine-tuned BERT**
+###✅ **FSM-style Explanation Generator**
 
 ---
 
